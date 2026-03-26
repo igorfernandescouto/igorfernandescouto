@@ -1,22 +1,24 @@
 # Igor Fernandes Couto
 
-Backend Developer | Java | Python | AWS | Microsserviços | APIs
+Backend Developer | Java | Python | AWS | Microservices | APIs
+
+Desenvolvedor Backend com experiência em ambientes de produção, focado em arquitetura limpa, performance e construção de sistemas escaláveis.
 
 ---
 
-# Sobre Mim
+# About
 
-Desenvolvedor Backend com experiência em ambientes de produção, focado em arquitetura limpa, performance e construção de APIs escaláveis.
+Desenvolvedor Backend com 2 anos de experiência profissional trabalhando com arquitetura de APIs, microsserviços e processamento de dados.
 
-Experiência prática em:
+Experiência prática com:
 
-- Desenvolvimento de microsserviços em Python
-- Arquitetura de APIs em Java com Quarkus
+- Arquitetura de APIs em Java (Quarkus / Jakarta EE)
+- Microsserviços em Python (FastAPI, Flask, Django REST)
 - Integração com AWS (App Runner, DynamoDB)
-- Otimização de processamento utilizando Virtual Threads
 - Refatoração de sistemas legados para TypeScript
-- Automação e processamento de dados para marketplaces
-- Machine Learning e LLMs aplicados a negócios
+- Processamento e automação de dados para marketplaces
+- Machine Learning aplicado a negócios
+- Desenvolvimento e treinamento de agentes LLM
 
 ---
 
@@ -24,7 +26,7 @@ Experiência prática em:
 
 ## Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,18 +39,18 @@ Experiência prática em:
 
 ---
 
-## Arquitetura & Padrões
+## Architecture
 
 ![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![SOAP](https://img.shields.io/badge/SOAP-Services-orange?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-Architecture-green?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-red?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-lightgrey?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Pattern-green?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-red?style=for-the-badge)
 
 ---
 
-## Banco de Dados
+## Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,8 +71,49 @@ Experiência prática em:
 
 ## Machine Learning & AI
 
-![Python](https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge&logo=python)
-![LLM](https://img.shields.io/badge/LLM-Agents-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Agents-purple?style=for-the-badge)
 ![Data Processing](https://img.shields.io/badge/Data-Processing-green?style=for-the-badge)
 
 ---
+
+# Education
+
+Bachelor in Computer Science  
+FMU — 2022 / 2026
+
+Principais áreas:
+
+- Estrutura de Dados
+- Engenharia de Software
+- Banco de Dados
+- Programação Orientada a Objetos
+- Compiladores
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorfernandescouto&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=igorfernandescouto&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfernandescouto&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+# Contact
+
+LinkedIn  
+https://www.linkedin.com/in/igor-fernandes-couto-27a8b7239/
+
+GitHub  
+https://github.com/igorfernandescouto
+
+Email  
+igorfernandes8259@gmail.com
+```
