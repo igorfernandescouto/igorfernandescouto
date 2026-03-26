@@ -16,8 +16,6 @@ Durante minha experiência profissional, trabalhei com:
 - Refatoração de sistemas legados para TypeScript
 - Automação e processamento de dados para marketplaces
 
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 # Tech Stack
