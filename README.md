@@ -100,7 +100,7 @@ Principais áreas:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=igorfernandescouto&theme=dark&hide_border=true)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igorfernandescouto&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfernandescouto&layout=compact&theme=dark&hide_border=true&hide=cpp)
 
 </div>
 
