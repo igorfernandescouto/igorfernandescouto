@@ -98,9 +98,9 @@ Principais áreas:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorfernandescouto&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=igorfernandescouo&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=igorfernandescouto&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfernandescouto&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorfernandescouo&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
